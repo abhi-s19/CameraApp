@@ -7,5 +7,5 @@ Steps--->
 3) Add cordova Camera plugin. Command-> Cordova plugin add Cordova plugin Camera
 
 <img src='https://github.com/abhi-s19/CameraApp/blob/main/Preview/prev1.jpg' width='250' height='500'><img src='https://github.com/abhi-s19/CameraApp/blob/main/Preview/prev2.jpg' width='250' height='500'><img src='https://github.com/abhi-s19/CameraApp/blob/main/Preview/prev3.jpg' width='250' height='500'>
-<img src='https://github.com/abhi-s19/CameraApp/blob/main/Preview/prev4.jpg' width='250' height='500'>
+<img src='https://github.com/abhi-s19/CameraApp/blob/main/Preview/prev4.jpg' width='250' height='500'><img src='https://github.com/abhi-s19/CameraApp/blob/main/Preview/prev5.jpg' width='250' height='500'>
 
